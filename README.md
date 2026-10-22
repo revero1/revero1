@@ -74,6 +74,4 @@ I design and build products end to end — from fast, polished interfaces to the
 
 <p align="center">
   <code>EDGE / BACKEND / INTERFACES</code>
-  <br />
-  <sub>Open to collaboration — feel free to reach out.</sub>
 </p>
